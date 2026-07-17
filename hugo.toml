@@ -1,5 +1,5 @@
 baseURL = "https://superkrist.github.io/hermes_blog"
-languageCode = "zh-CN"
+locale = "zh-CN"
 title = "Hermes Blog"
 theme = "PaperMod"
 paginate = 10
